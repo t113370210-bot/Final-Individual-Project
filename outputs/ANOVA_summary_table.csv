@@ -1,0 +1,19 @@
+﻿Statistic,Result
+Research Question,Is there a significant difference in mean height among milk drinking groups?
+Sample Size,"N = 12,668"
+Overall Mean Height,1.694 m (SD = 0.101)
+No Milk Drinking Mean,"1.675 m (n=2614, SD=0.102)"
+Occasional Milk Drinking Mean,"1.686 m (n=5125, SD=0.098)"
+Frequent Milk Drinking Mean,"1.712 m (n=4929, SD=0.102)"
+Hypotheses,"H₀: μ1 = μ2 = μ3
+H₁: At least one group mean differs"
+F-value,"F(2, 12665) = 139.056"
+p-value,< 0.001
+Effect Size (η²),0.0215
+Effect Size Magnitude,Small Effect
+Decision (α = 0.05),Reject H₀
+Conclusion,There is sufficient statistical evidence at the 0.05 significance level to conclude that at least one group mean height differs among the three milk drinking groups.
+Post Hoc (Tukey HSD),"No milk drinking vs. Occasional milk drinking = 0.0104 (Mean difference of height)
+No milk drinking vs. Frequent milk drinking = 0.0364 (Mean difference of height)
+Occasional milk drinking vs. Frequent milk drinking = 0.0259 (Mean difference of height)"
+Interpretation,"ANOVA showed that at least one group mean height differed significantly among the groups, but it does not identify which group differs. Tukey HSD post hoc tests showed significant pairwise differences among all groups. Descriptive statistics indicated that frequent milk drinkers had the highest mean height, followed by occasional milk drinkers and non-drinkers."
